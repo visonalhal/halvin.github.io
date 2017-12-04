@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/visonalhal/halvin.github.io.git
+  repo: https://github.com/visonalhal/visonalhal.github.io.git
   branch: master
